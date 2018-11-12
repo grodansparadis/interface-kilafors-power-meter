@@ -1,0 +1,20 @@
+
+Ake Hedman
+Grodans Paradis AB
+
+Date:				2014-06-18
+Part Number: 		Kilafors
+Boards ordered:		120
+Number of layers: 	2 
+Material: 			FR4
+Final Thickness:	1.6 mm
+Final copper:		1/1oz
+Surface treatment: 	ENIG
+Unit Size:			35 x 45 mm
+Panel Size:		
+Unit/panel:			12
+Solder Mask:		Black
+Silk Screen: 		White	
+Outline Profile:CNC Routing + V-cut
+X-out Allowed:		1
+Stencil needed:		no

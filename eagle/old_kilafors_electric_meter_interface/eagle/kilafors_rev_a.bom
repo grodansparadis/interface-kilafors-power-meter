@@ -1,0 +1,7 @@
+Partlist exported from C:/Users/akhe/Documents/development/hardware_zeus/can4vscp/kilafors - electric meter interface/eagle/kilafors_rev_a.sch at 2011-10-06 17:49:20
+
+Part Value     Device     Package Description                Description     Supplier Partnumber    Price
+C1   1uF       C-EUC0805  C0805   CAPACITOR, European symbol Capacitor       Bejoken  522592        0,158
+D1   PT-204-6C BP104      BP104   PHOTO DIODE                Photodiod       ELFA     75-203-23     2,52 
+R1   10k       R-EU_R0805 R0805   RESISTOR, European symbol  Resistor        Bejoken  454676        0,1  
+SV1            MA03-1     MA03-1  PIN HEADER                 Enkel stiftlist Digikey  SAM1035-50-ND 0,33 
