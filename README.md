@@ -4,6 +4,5 @@
 
 This is work in progress.
 
-Copyright -2018 Matthew Robinson - https://github.com/mttrb
-Copyright 2018 Changes and VSCP demo adoption [Ake Hedman, Grodans Paradis AB](akhe@grodansparadis.com)
+Copyright 2018 [Ake Hedman, Grodans Paradis AB](akhe@grodansparadis.com)
 
